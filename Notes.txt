@@ -1,0 +1,2 @@
+Manually set your DNS server on the raspberry pi 3(The wifi settings manager didn't work)
+sudo nano /etc/resolv.conf
